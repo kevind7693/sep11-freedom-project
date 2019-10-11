@@ -1,4 +1,3 @@
-# sep11-freedom-project
 # SEP11-Freedom-Project
 by Kevin Dong
 
